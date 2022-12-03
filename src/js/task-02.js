@@ -8,7 +8,7 @@ const ingredients = [
 ];
 
 
-const listEl = document.querySelector("ul#ingredients")
+const listEl =  document.getElementById("ingredients")
 
 
 const elements = ingredients.map(ingredient => {
