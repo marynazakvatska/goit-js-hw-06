@@ -20,5 +20,3 @@ function onInputChange(event) {
        return  refs.span.textContent = "Anonymous"
     }
 }
-
-

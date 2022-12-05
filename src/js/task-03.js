@@ -36,7 +36,7 @@ const makeItemElMarkup = images => {
   return `
   <li class="gallery__item ">
 <img class="img" src = ${url} alt =${alt} width=640></img>
-  <li>
+  </li>
   `
 
 }
